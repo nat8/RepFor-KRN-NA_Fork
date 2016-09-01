@@ -1,0 +1,3 @@
+<<<<<<< HEAD
+Bye, Bye world!!!
+>>>>>>> resources
