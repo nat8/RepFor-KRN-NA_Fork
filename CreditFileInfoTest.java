@@ -5,7 +5,6 @@ package com.epam.test.tests;
  *
  * @author Natalia Amelina
  */
-
 public class CreditFileInfoTest extends BaseTest {
 
 	private static final String PROP_DEFAULT_CUSTOMER_URL = "url.customer.default1";

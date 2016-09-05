@@ -7,7 +7,6 @@ import java.util.logging.Logger;
  *
  * @author Natalia Amelina
  */
-
 public class CreditFileBO {
 
 	private static final Logger LOG = Logger.getLogger(CreditFileBO.class);

@@ -8,7 +8,6 @@ import java.util.logging.Logger;
  *
  * @author Natalia Amelina
  */
-
 public class CreditFileInfoService extends BaseService {
 
 	private static final Logger LOG = Logger.getLogger(CreditFileInfoService.class);
